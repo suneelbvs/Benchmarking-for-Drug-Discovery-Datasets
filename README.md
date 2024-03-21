@@ -2,7 +2,7 @@
 
 # Data Quality Checkpoints
 
-Welcome to the **Data Quality Checkpoints** repository! This project is your go-to resource for maintaining high data quality in your datasets. It provides a comprehensive suite of tools for identifying duplicates, analyzing property distributions, visualizing data, and checking for structural issues like stereochemistry and invalid charges. As this repository is under active development, we kindly ask for your patience and welcome any contributions to help improve and evolve the toolkit.
+Welcome to the **Benchmarking (Data Quality Checkpoints) for Drug Discovery Datasets** repository! This project is your go-to resource for maintaining high data quality in your datasets. It provides a comprehensive suite of tools for identifying duplicates, analyzing property distributions, visualizing data, and checking for structural issues like stereochemistry and invalid charges. As this repository is under active development, we kindly ask for your patience and welcome any contributions to help improve and evolve the toolkit.
 
 ## Features
 
