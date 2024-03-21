@@ -22,6 +22,7 @@ Clone this repository to your local machine to get started:
 
 ```bash
 git clone https://github.com/<your-github-username>/data-quality-checkpoints.git
+```
 
 🚧 Project Status: Getting Ready for Launch! 🚧
 
@@ -36,7 +37,6 @@ Stay Updated: Keep an eye on this space! We'll share progress updates, sneak pee
 
 Thank you for your patience and support. We can't wait to unveil what we've been working on!
 ..........................
-
 
 
 ## 2. Install Dependencies. 
