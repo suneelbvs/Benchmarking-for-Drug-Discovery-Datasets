@@ -36,6 +36,9 @@ Stay Updated: Keep an eye on this space! We'll share progress updates, sneak pee
 
 Thank you for your patience and support. We can't wait to unveil what we've been working on!
 ..........................
+
+
+
 ## 2. Install Dependencies. 
 
 Navigate to the repository directory and install the required dependencies:
